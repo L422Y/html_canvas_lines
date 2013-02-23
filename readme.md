@@ -1,3 +1,4 @@
-boring html5 canvas art crap.
+# Canvas Lines Generator
+An HTML5 canvas art experiment... draw circles, draw little circle key nubs, explode brain.
 
-draw circles, draw little circle key nubs. whatever. it looks cool.
+See in action here: http://cdpn.io/DzHwo
